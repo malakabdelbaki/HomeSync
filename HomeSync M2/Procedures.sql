@@ -31,7 +31,7 @@ go;
 
 create proc getType
 @user_id int,
-@type varchar(10) output
+@type varchar(20) output
 as
 begin
 select @type=type from Users where id=@user_id
