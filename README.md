@@ -8,6 +8,7 @@ Overall, HomeSync serves as a versatile virtual assistant that supports users in
 <img width="960" alt="Screenshot 2024-01-26 120610" src="https://github.com/malakabdelbaki/HomeSync/assets/119429621/d4a1c402-adda-4894-9d57-4cef100a9dbb">
 <img width="960" alt="Screenshot 2024-01-26 120623" src="https://github.com/malakabdelbaki/HomeSync/assets/119429621/f327fc94-02e4-4dca-aeb6-d0b51c345f76">
 
+[A demo video of the website can be found here](https://drive.google.com/file/d/1nUkUsW6wDsbBaAdL2ZDfFDJ6m303Hix4/view?usp=sharing)
 ## Milestone 1: EERD and Schema
 
 In this milestone, an EERD and Schema were designed to allow users to seamlessly manage their calendars, tasks, messages, room activities, bill payments, and travel information. 
